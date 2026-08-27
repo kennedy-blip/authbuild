@@ -4,4 +4,4 @@ build .. ..
 npm ,. ...
 install .. ..
 git .. .. 
-fixx .. .
+fixx .. ..

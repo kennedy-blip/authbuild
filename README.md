@@ -5,4 +5,4 @@ npm ,. ...
 install .. ..
 git .. .. 
 fixx .. ..
-errors .
+errors ..

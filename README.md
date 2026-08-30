@@ -9,4 +9,4 @@ errors ..
 git .
 clear .. ..
 push 
-t
+to

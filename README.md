@@ -8,3 +8,4 @@ fixx .. ..
 errors ..
 git .
 clear .. ..
+p

@@ -10,3 +10,4 @@ git .
 clear .. ..
 push 
 to
+g

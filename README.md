@@ -11,4 +11,4 @@ clear .. ..
 push 
 to
 github
-commu
+commun

@@ -11,3 +11,4 @@ clear .. ..
 push 
 to
 github
+c

@@ -10,4 +10,4 @@ git .
 clear .. ..
 push 
 to
-gith
+githu
